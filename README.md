@@ -27,6 +27,8 @@ Finding the best location for the business
 The ease of doing business
 32 European countries out of 44
 
+## 32 Countries Included:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Latvia, Lithuania, Luxemburg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom.
 
 
 
