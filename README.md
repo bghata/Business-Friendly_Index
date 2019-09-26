@@ -8,7 +8,7 @@ This study is built-up on creating a dashboard of indexes to help businesses fin
 ## What Is A Dashboard?
 A dashboard is a type of graphical user interface which often provided at-a-glance views of key performance indicators relevant to a particular objective or business process.
 
-### Benefits of Dashboards:
+## Benefits of Dashboards:
 -	Visual presentation performance measures
 -	Ability to identify and correct negative trends
 -	Ability to generate detailed reports showing new trends
