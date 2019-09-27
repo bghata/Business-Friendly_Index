@@ -37,4 +37,4 @@ Albania, Andorra, Belarus, Bosnia and Herzegovina, Holy See, Moldova, Monaco, Mo
 
 Part of this project was made by using Tableau to generate some visual graphs and a dashboard.
 
-[Please click on the following link to navigate and download to the dashboard](https://public.tableau.com/profile/bahij.ghata#!/vizhome/euDataAnalysis/GhataIndex?publish=yes)
+[Please click on the link to navigate and download to the dashboard](https://public.tableau.com/profile/bahij.ghata#!/vizhome/euDataAnalysis/GhataIndex?publish=yes)
