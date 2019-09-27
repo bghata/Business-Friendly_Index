@@ -30,8 +30,11 @@ The ease of doing business
 ## 32 Countries Included:
 Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Latvia, Lithuania, Luxemburg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom.
 
+## 12 Countries Excluded:
+Albania, Andorra, Belarus, Bosnia and Herzegovina, Holy See, Moldova, Monaco, Montenegro, North Macedonia, Russia, San Marino, Serbia.
+
 
 
 Part of this project was made by using Tableau to generate some visual graphs and a dashboard.
 
-[Click here to download Tableau Dashboard](https://public.tableau.com/workbooks/DashboardAnalysisofEnergyConsumption.twb)
+[Please click on the following link to navigate and download to the dashboard](https://public.tableau.com/profile/bahij.ghata#!/vizhome/euDataAnalysis/GhataIndex?publish=yes)
