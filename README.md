@@ -33,8 +33,11 @@ Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, F
 ## 12 Countries Excluded:
 Albania, Andorra, Belarus, Bosnia and Herzegovina, Holy See, Moldova, Monaco, Montenegro, North Macedonia, Russia, San Marino, Serbia.
 
+## Keep in mind:
+The goal of the research is NOT the measures or indicators.
+Focusing on having the best performance of a measure or indicator will lead to lose the track and to ignore other important factors.
 
 
-Part of this project was made by using Tableau to generate some visual graphs and a dashboard.
+This project was made by using Tableau software to generate visual graphs and dashboards.
 
 [Please click on the link to navigate and download to the dashboard](https://public.tableau.com/profile/bahij.ghata#!/vizhome/euDataAnalysis/GhataIndex?publish=yes)
