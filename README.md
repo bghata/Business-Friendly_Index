@@ -37,6 +37,15 @@ Albania, Andorra, Belarus, Bosnia and Herzegovina, Holy See, Moldova, Monaco, Mo
 The goal of the research is NOT the measures or indicators.
 Focusing on having the best performance of a measure or indicator will lead to lose the track and to ignore other important factors.
 
+## The Dashboard:
+The dashboard interface contains multiple pages with variety of topics divided into several sub-dashboards.
+
+The main index page includes an interactive interface based of the following 4 indicators:
+
+-	GDP per capita 37% (data from 2017)
+-	Corporate Tax 28% (data from 2018)
+-	Legal Trust 24% (data from 2013)
+-	Corruption Rate 11% (data from 2018)
 
 This project was made by using Tableau software to generate visual graphs and dashboards.
 
