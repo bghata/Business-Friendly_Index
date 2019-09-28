@@ -47,6 +47,17 @@ The main index page includes an interactive interface based of the following 4 i
 -	Legal Trust 24% (data from 2013)
 -	Corruption Rate 11% (data from 2018)
 
+Other 7 pages containing variety of indicators:
+
+-	GDP
+-	Taxes
+-	Trust
+-	Social
+-	Labor
+-	Satisfaction
+-	Safety & Security
+
+
 This project was made by using Tableau software to generate visual graphs and dashboards.
 
 [Please click on the link to navigate and download to the dashboard](https://public.tableau.com/profile/bahij.ghata#!/vizhome/euDataAnalysis/GhataIndex?publish=yes)
