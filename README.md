@@ -80,6 +80,17 @@ The data was collected from multiple sources as shown below:
 -	Outliers were not excluded; since the data should reflect real countries economic performances and other measures, and there was no prediction applied
 -	The visualization of data and the dashboard were made by using Tableau Software
 
+## Next Steps:
+-	Updated studies & surveys / possible live data
+-	New / additional indicators:
+o	Office rental prices list
+o	Contracts
+o	Trading across boarders
+o	Registering property
+o	Getting credits
+-	New advanced tools to illustrate and visualize the data
+-	Using different platforms or software to explore and discover more potential business measures & trends.
+
 This project was made by using Tableau software to generate visual graphs and dashboards.
 
 [Please click on the link to navigate and download to the dashboard](https://public.tableau.com/profile/bahij.ghata#!/vizhome/euDataAnalysis/GhataIndex?publish=yes)
