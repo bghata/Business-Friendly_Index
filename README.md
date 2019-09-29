@@ -57,6 +57,22 @@ Other 7 pages containing variety of indicators:
 -	Satisfaction
 -	Safety & Security
 
+## Data Collection:
+The data was collected from multiple sources as shown below:
+
+-	World Bank: worldbank.org
+-	CIA The World Factbook: cia.gov
+-	Our World in Data: ourworldindata.org
+-	Tax Foundation: taxfoundation.org
+-	European Union VAT Rates: avalara.com
+-	Fraser Institute: fraserinstitute.org
+-	Eurostat: Europa.eu
+-	Europe-Datasets: kaggle.com
+-	Transparency International: transparency.org
+-	Freedom House: freedomhouse.org
+-	European Countries by population: worldmeters.info
+-	List of Countries by GDP: statisticstimes.com
+-	OECD Better Life: oecdbetterlifeindex.org
 
 This project was made by using Tableau software to generate visual graphs and dashboards.
 
