@@ -74,6 +74,12 @@ The data was collected from multiple sources as shown below:
 -	List of Countries by GDP: statisticstimes.com
 -	OECD Better Life: oecdbetterlifeindex.org
 
+## Data Processing:
+-	The data was pre-processed and cleaned by using R Programming language & Tableau Software
+-	Detecting NA data
+-	Outliers were not excluded; since the data should reflect real countries economic performances and other measures, and there was no prediction applied
+-	The visualization of data and the dashboard were made by using Tableau Software
+
 This project was made by using Tableau software to generate visual graphs and dashboards.
 
 [Please click on the link to navigate and download to the dashboard](https://public.tableau.com/profile/bahij.ghata#!/vizhome/euDataAnalysis/GhataIndex?publish=yes)
