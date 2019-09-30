@@ -85,3 +85,6 @@ Next Steps:
 -	New / additional indicators (office rental prices list, contracts, trading across boarders, registering property, getting credits)
 -	New advanced tools to illustrate and visualize the data
 -	Using different platforms or software to explore and discover more potential business measures & trends.
+
+Please click on the following link to navigate to the dashboard page:
+https://public.tableau.com/profile/bahij.ghata#!/vizhome/euDataAnalysis/GhataIndex?publish=yes
