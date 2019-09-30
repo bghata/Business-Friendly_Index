@@ -81,3 +81,12 @@ The data was collected from multiple sources as shown below:
 -	The visualization of data and the dashboard were made by using Tableau Software
 
 Next Steps:
+-	Updated studies & surveys / possible live data
+-	New / additional indicators:
+o	Office rental prices list
+o	Contracts
+o	Trading across boarders
+o	Registering property
+o	Getting credits
+-	New advanced tools to illustrate and visualize the data
+-	Using different platforms or software to explore and discover more potential business measures & trends.
