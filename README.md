@@ -74,3 +74,4 @@ The data was collected from multiple sources as shown below:
 -	List of Countries by GDP: statisticstimes.com
 -	OECD Better Life: oecdbetterlifeindex.org
 
+## Data Processing:
