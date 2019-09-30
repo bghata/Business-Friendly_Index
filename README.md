@@ -82,11 +82,6 @@ The data was collected from multiple sources as shown below:
 
 Next Steps:
 -	Updated studies & surveys / possible live data
--	New / additional indicators:
-o	Office rental prices list
-o	Contracts
-o	Trading across boarders
-o	Registering property
-o	Getting credits
+-	New / additional indicators (office rental prices list, contracts, trading across boarders, registering property, getting credits)
 -	New advanced tools to illustrate and visualize the data
 -	Using different platforms or software to explore and discover more potential business measures & trends.
