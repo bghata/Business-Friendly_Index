@@ -80,7 +80,7 @@ The data was collected from multiple sources as shown below:
 -	Outliers were not excluded; since the data should reflect real countries economic performances and other measures, and there was no prediction applied
 -	The visualization of data and the dashboard were made by using Tableau Software
 
-Next Steps:
+## Next Steps:
 -	Updated studies & surveys / possible live data
 -	New / additional indicators (office rental prices list, contracts, trading across boarders, registering property, getting credits)
 -	New advanced tools to illustrate and visualize the data
